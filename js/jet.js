@@ -70,7 +70,7 @@
 
             /**
              * Responsible for receive arguments and initialize widget
-             * @method initWidget
+             * @method init
              */
             init: function(name, url, callback) {
                 this.widgets();

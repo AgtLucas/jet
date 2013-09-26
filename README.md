@@ -1,4 +1,4 @@
-Modular Script Loader Framework
+Jet.js
 =============
 
 Jet.js is a micro-library dependency loader (asynchronously)
