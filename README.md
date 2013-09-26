@@ -1,7 +1,7 @@
 Jet.js
 =============
 
-Jet.js is a micro-library dependency loader (asynchronously)
+Jet.js is a micro-library dependency loader (asynchronously) on demand.
 
 Usage
 -----------
