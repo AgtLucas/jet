@@ -7,7 +7,7 @@
  * Author's name: Michael Lancaster
  * website: www.bymichaellancaster.com
  * Twitter: @weblancaster
- * Date: 04-09-2013
+ * Date: 24-09-2013
  */
 ;(function(window, undefined) {
 
